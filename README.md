@@ -1,7 +1,7 @@
 # AES_Encryption_and_Decryption_Program
 Self-made Program
 
-Language: Python
+Language: Python3.6
 
 Co-developer: Yilong Mao
 
